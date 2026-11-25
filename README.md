@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Riaz Ahamed
+# 👋 Hi, I'm Batcha Riaz Ahamed
 
 ### Senior AIX / Linux Infrastructure Engineer | Unix SME | OCI & AWS Cloud
 
