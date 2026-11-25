@@ -90,11 +90,5 @@ View my digital credentials on Credly:
 - Red Hat Linux Administration
 - IBM Power Systems
 - Enterprise Infrastructure Operations
-### Areas of Expertise
-
-- IBM AIX & Unix Administration
-- Red Hat Linux Administration
-- IBM Power Systems
-- Enterprise Infrastructure Operations
 
 Always interested in learning new technologies, solving complex infrastructure challenges and contributing to enterprise IT transformation.
