@@ -70,20 +70,24 @@ I am building this repository to share learning resources, technical examples an
 - **LinkedIn:** https://www.linkedin.com/in/batcha-riaz-ahamed-s-a18110147
 - **Location:** India | Open to international opportunities
 
-## 🏅 Professional Certifications & Digital Credentials
+## 🏅 Certifications & Professional Development
 
-View my digital credentials on Credly:
+### Professional Certifications
 
-[**My Credly Badge Wallet**](https://www.credly.com/users/batcha-ahamed)
-
-### Credentials
-
-| Credential | Issuer | Issued |
+| Certification | Certification Code | Issuer |
 |---|---|---|
-| RHCSA Rapid Track Course (RH199) – Ver. 9.3 | Red Hat | Dec 2024 |
-| AIX Systems Administrator – Fundamentals | Kyndryl | Dec 2022 |
-| AIX Systems Administrator – Fundamentals for UNIX Specialists | Kyndryl | Dec 2022 |
+| IBM AIX Administration V1 – Certified Engineer | C9010-022-ENU | IBM |
+| VMware Certified Associate (VCA) – Cloud | VCAC510-VCA-ENU | VMware |
 
+### Additional Training & Credentials
+
+| Credential | Issuer |
+|---|---|
+| RHCSA Rapid Track Course (RH199) – Version 9.3 | Red Hat |
+| AIX Systems Administrator – Fundamentals | Kyndryl |
+| AIX Systems Administrator – Fundamentals for UNIX Specialists | Kyndryl |
+
+**Digital Credentials:** [View My Credly Badge Wallet](https://www.credly.com/users/batcha-ahamed)
 ### Areas of Expertise
 
 - IBM AIX & Unix Administration
