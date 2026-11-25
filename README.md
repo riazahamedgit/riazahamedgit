@@ -70,4 +70,24 @@ I am building this repository to share learning resources, technical examples an
 - **LinkedIn:** https://www.linkedin.com/in/batcha-riaz-ahamed-s-a18110147
 - **Location:** India | Open to international opportunities
 
+- ## 🏅 Professional Certifications & Digital Credentials
+
+View my verified digital credentials on Credly:
+
+https://www.credly.com/users/batcha-ahamed
+
+### Credentials
+
+| Credential | Issuer | Issued |
+| RHCSA Rapid Track Course (RH199) – Ver. 9.3 | Red Hat | Dec 2024 |
+| AIX Systems Administrator – Fundamentals | Kyndryl | Dec 2022 |
+| AIX Systems Administrator – Fundamentals for UNIX Specialists | Kyndryl | Dec 2022 |
+
+### Areas of Expertise
+
+- IBM AIX & Unix Administration
+- Red Hat Linux Administration
+- IBM Power Systems
+- Enterprise Infrastructure Operations
+
 Always interested in learning new technologies, solving complex infrastructure challenges and contributing to enterprise IT transformation.
